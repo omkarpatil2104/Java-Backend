@@ -42,7 +42,7 @@ public class Encapsulation {
 		
 		Encapsulation e = new Encapsulation();
 		e.setName(s);
-		System.out.println("Welcome "+e.getName()+" ❤︎ siddhi");
+		System.out.println("Welcome "+e.getName()+" omkar");
 		
 		e.setAge(a);
 		System.out.println(e.getAge());
